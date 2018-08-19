@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSONPlaceholder</string>
+    <string name="title_albums">Альбомы</string>
+    <string name="title_posts">Посты</string>
+    <string name="title_todo">TODO</string>
+    <string name="text_toolbar">Albums</string>
+    <string name="please_wait">Пожалуйста, подождите!</string>
+    <string name="json_holder">{ JSON : Placeholder }</string>
+</resources>
